@@ -1,7 +1,7 @@
 # ctla4_mtec
 
 This repo contains scripts used to analyze bulk RNA-seq, single-cell RNA-seq and microarray data for the manuscript:  
-Michelson et al, "Ctla-4 on thymic epithelial cells complements Aire for T-cell central tolerance" (2022).
+Michelson et al, "CTLA-4 on thymic epithelial cells complements Aire for T-cell central tolerance" (2022).
 
 These analyses made use of bulk RNA-seq data from the following papers:  
 -Sansom et al, Genome Res (2014).  
